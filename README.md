@@ -1,2 +1,2 @@
-#React Quiz App
-A Quiz Application designed to host quizzes 
+
+A React Native Quiz Application designed to host quizzes 
