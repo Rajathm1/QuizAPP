@@ -1,1 +1,1 @@
-# QuizApp_React_Native
+A Quiz Application designed to host quizzes 
